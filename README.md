@@ -41,14 +41,18 @@
 </p>
 
 ---
-
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GauravNaike&show_icons=true&theme=tokyonight&cache_seconds=86400" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=GauravNaike&show_icons=true&theme=tokyonight&cache_seconds=86400"
+    alt="GauravNaike GitHub stats"
+  />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=GauravNaike&theme=tokyonight" />
+  <img
+    src="https://streak-stats.demolab.com?user=GauravNaike&theme=tokyonight"
+    alt="GauravNaike GitHub streak"
+  />
 </p>
-
