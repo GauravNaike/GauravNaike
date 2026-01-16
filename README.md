@@ -1,3 +1,4 @@
+![Banner](banner.png)
 <h1 align="center">Hi 👋, I'm Gaurav Naike</h1>
 <h3 align="center">Backend Developer | Java & Spring Boot</h3>
 
