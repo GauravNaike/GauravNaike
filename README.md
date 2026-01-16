@@ -44,10 +44,11 @@
 
 ## 📊 GitHub Stats
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=GauravNaike&show_icons=true&theme=default" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GauravNaike&show_icons=true&theme=tokyonight&cache_seconds=86400" />
 </p>
 
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GauravNaike" />
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=GauravNaike&theme=tokyonight" />
 </p>
+
